@@ -1,0 +1,10 @@
+{
+  "UI": "Frontend",
+  "Authentication": "Identity & Access",
+  "API": "API Platform",
+  "Database": "Database",
+  "Performance": "Performance Engineering",
+  "Security": "Security",
+  "Backend": "Backend",
+  "Other": "Triage Queue"
+}
